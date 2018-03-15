@@ -42,7 +42,7 @@ install:
 
 build_script:
   - cd c:\build\pgrouting\ci\appveyor
-  - msbuild_pgrouting.bat %PG_VER% 
+  - msbuild_pgrouting.bat %PG_VER%
   - cd %PGROUTING_BUILD_DIR%
   - msbuild PGROUTING.sln /target:Build /property:Configuration=%CONFIGURATION%
   - msbuild INSTALL.vcxproj /target:Build /property:Configuration=%CONFIGURATION%

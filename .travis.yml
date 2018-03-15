@@ -71,7 +71,7 @@ before_script:
 
   - psql -U postgres -c "create extension postgis"
   -  export PATH=/usr/lib/postgresql/$POSTGRESQL_VERSION/bin:$PATH
-    
+
   # initialize databases
   - createdb  -U $PG_USER ___pgr___test___
   - createdb  -U $PG_USER pgr_test__db__test

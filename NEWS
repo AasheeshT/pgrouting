@@ -29,6 +29,25 @@ To see the issues closed by this release see the [Git closed milestone for 2.6.0
 
 
 
+pgRouting 2.5.3 Release Notes
+-------------------------------------------------------------------------------
+
+To see the issues closed by this release see the [Git closed milestone for 2.5.3 ](https://github.com/pgRouting/pgrouting/issues?utf8=%E2%9C%93&q=milestone%3A%22Release%202.5.3%22%20) on Github.
+
+*Bug fixes*
+
+* Fix for postgreSQL 11: Necessary changes for compilation with postgreSQL 11
+
+
+pgRouting 2.5.2 Release Notes
+-------------------------------------------------------------------------------
+
+To see the issues closed by this release see the [Git closed milestone for 2.5.2 ](https://github.com/pgRouting/pgrouting/issues?utf8=%E2%9C%93&q=milestone%3A%22Release%202.5.2%22%20) on Github.
+
+*Bug fixes*
+
+* Fix for postgresql 10.1: Removed a compiler condition
+
 
 
 pgRouting 2.5.1 Release Notes
