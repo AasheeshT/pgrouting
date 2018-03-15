@@ -49,7 +49,7 @@ To see the issues closed by this release see the `Git closed milestone for 2.5.3
 
 .. rubric:: Bug fixes
 
-* Fix for postgreSQL 11: Necesary changes for compilation with postgreSQL 11
+* Fix for postgreSQL 11: Necessary changes for compilation with postgreSQL 11
 
 .. _changelog_2_5_2:
 

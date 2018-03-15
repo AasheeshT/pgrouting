@@ -6,7 +6,7 @@ To see the issues closed by this release see the [Git closed milestone for 2.5.3
 
 *Bug fixes*
 
-* Fix for postgreSQL 11: Necesary changes for compilation with postgreSQL 11
+* Fix for postgreSQL 11: Necessary changes for compilation with postgreSQL 11
 
 
 pgRouting 2.5.2 Release Notes
